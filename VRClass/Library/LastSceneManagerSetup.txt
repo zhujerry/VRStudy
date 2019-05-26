@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/LearnAnimation.unity
+- path: Assets/Scenes/LearnUI.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

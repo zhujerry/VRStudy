@@ -12,3 +12,7 @@ basic codes MouseMoveColor and MouseDownJump
 [19/05/23]
 
 Learn animation&animator
+
+[19/05/26]
+
+Learn UI and game view
